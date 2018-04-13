@@ -1,5 +1,8 @@
 body {
-    margin: 0;
+  margin: 0;
+  background-image: url("../assets/dave1.jpg");
+  background-repeat: repeat-y;
+  background-size: 100vw;
 }
 
 img {
@@ -42,6 +45,11 @@ ul {
 h3 {
   color: white;
   font-weight: 100;
+}
+
+.footnote {
+  color: white;
+  font-size: 12px;
 }
 
 .sponsor {
