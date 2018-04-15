@@ -18,16 +18,16 @@ img {
 }
 
 h1 {
-  color: white;
+  color: #ffc72c;
   font-size: 50pt;
   font-weight: 100;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(4, 30, 66, 0.5);
   padding: 10px;
   border-radius: 5px;
 }
 
 .stats {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(4, 30, 66, 0.5);
   width: 400px;
   padding: 10px 20px;
   border-radius: 5px;
@@ -53,7 +53,7 @@ h3 {
 }
 
 .sponsor {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(4, 30, 66, 0.5);
   border-radius: 5px;
   margin-top: 20px;
   padding: 10px 20px;
