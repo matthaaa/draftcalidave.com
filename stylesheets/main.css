@@ -48,9 +48,9 @@ h1 {
 }
 
 h2 {
-  color: white;
   font-family: helvetica;
   font-weight: 100;
+  color: white;
 }
 
 ul {
@@ -58,8 +58,9 @@ ul {
 }
 
 h3 {
-  color: white;
+  font-family: helvetica;
   font-weight: 100;
+  color: white;
 }
 
 .footnote {
