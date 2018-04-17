@@ -9,32 +9,47 @@ img {
   width: 100vw;
 }
 
-.left-container {
-  font-family: helvetica;
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  padding: 100px;
+.header {
+  background-color: rgba(4, 30, 66, 0.5);
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
-  color: #ffc72c;
   font-size: 50pt;
   font-weight: 100;
-  background-color: rgba(4, 30, 66, 0.5);
-  padding: 10px;
-  border-radius: 5px;
+  padding-bottom: 30px;
+  font-family: helvetica;
+  color: #ffc72c;
+  text-align: center;
+  border-bottom: 2px #ffc72c solid;
+}
+
+.header h3 {
+  font-family: helvetica;
+  font-size: 16px;
+  color: #ffc72c;
+  text-align: center;
+}
+
+.left-container {
+  padding: 100px;
 }
 
 .stats {
   background-color: rgba(4, 30, 66, 0.5);
-  width: 400px;
+  max-width: 600px;
   padding: 10px 20px;
   border-radius: 5px;
 }
 
 h2 {
   color: white;
+  font-family: helvetica;
   font-weight: 100;
 }
 
@@ -57,7 +72,7 @@ h3 {
   border-radius: 5px;
   margin-top: 20px;
   padding: 10px 20px;
-  width: 400px;
+  max-width: 600px;
 }
 
 .sponsor p {
